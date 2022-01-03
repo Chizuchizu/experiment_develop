@@ -5,10 +5,11 @@ experiment_develop
 How to publish in PyPI(testPyPI)
 =====
 
-.. code-block::
-    poetry config http-basic.XXXX https://test.pypi.org/legacy/
-    poetry build
-    poetry publish -r XXXX
+::
+
+ poetry config http-basic.XXXX https://test.pypi.org/legacy/
+ poetry build
+ poetry publish -r XXXX
 
 
 参考
