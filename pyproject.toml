@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "experiment_develop"
-version = "0.1.0"
+version = "0.3.0"
 description = "All for me"
 authors = ["Ochi Yuma <ochiyuma.ochi@gmail.com>"]
 
