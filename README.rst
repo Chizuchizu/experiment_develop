@@ -7,7 +7,8 @@ How to publish in PyPI(testPyPI)
 
 ::
 
- poetry config http-basic.XXXX https://test.pypi.org/legacy/
+ poetry config repositories.XXXX https://test.pypi.org/legacy/
+ poetry config pypi-token.XXXX "TOKEN"
  poetry build
  poetry publish -r XXXX
 

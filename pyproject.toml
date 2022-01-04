@@ -4,7 +4,6 @@ version = "0.3.0"
 description = "All for me"
 authors = ["Ochi Yuma <ochiyuma.ochi@gmail.com>"]
 repository = "https://github.com/Chizuchizu/experiment_develop"
-readme = "README.rst"
 
 [tool.poetry.dependencies]
 python = "^3.9"
